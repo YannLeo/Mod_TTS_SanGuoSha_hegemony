@@ -1,0 +1,593 @@
+{
+  "schema_version": 1,
+  "package": "Sanguosha-Guozhan-2026-WorkshopCache-v1.0.0",
+  "version": "1.0.0",
+  "mod_name": "三国杀国战线下2026",
+  "workshop_id": "3794307123",
+  "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3794307123",
+  "generated_at_utc": "2026-09-02T04:02:25+00:00",
+  "workshop_json_sha256": "4d718d134e5680dcb129b32c6cc06f4cb41ce9d35c17b6e34fe2838c2ec874b2",
+  "reference_count": 153,
+  "unique_resource_count": 42,
+  "category_counts": {
+    "Assetbundles": 1,
+    "Audio": 1,
+    "Images": 40
+  },
+  "total_size": 439749641,
+  "resources": [
+    {
+      "category": "Images",
+      "url": "https://steamusercontent-a.akamaihd.net/ugc/10210736954372397601/DC36A6C477EF19FDEF0CCC777CD76D2EFC65F1CA/",
+      "relative_path": "Mods/Images/httpssteamusercontentaakamaihdnetugc10210736954372397601DC36A6C477EF19FDEF0CCC777CD76D2EFC65F1CA.png",
+      "size": 2508372,
+      "sha256": "9ee196863734d98d0c086c458dd4283e3bfac11cd458719a983e043b598617d1",
+      "reference_count": 1,
+      "json_paths": [
+        "/ObjectStates/16/CustomDeck/37/FaceURL"
+      ]
+    },
+    {
+      "category": "Images",
+      "url": "https://steamusercontent-a.akamaihd.net/ugc/10319943682085539607/C0E3C5B3E7D0E8707CEB3C1B6DBC9822D0E108BE/",
+      "relative_path": "Mods/Images/httpssteamusercontentaakamaihdnetugc10319943682085539607C0E3C5B3E7D0E8707CEB3C1B6DBC9822D0E108BE.png",
+      "size": 11745811,
+      "sha256": "4e3c877c591c768e177e64e20e076dbf31bc3d8a2b3d7945834cf20b30d809c0",
+      "reference_count": 1,
+      "json_paths": [
+        "/ObjectStates/23/CustomDeck/45/BackURL"
+      ]
+    },
+    {
+      "category": "Images",
+      "url": "https://steamusercontent-a.akamaihd.net/ugc/10493791310886578597/2F03383A6B3C00C68FB578607377F9893293E519/",
+      "relative_path": "Mods/Images/httpssteamusercontentaakamaihdnetugc104937913108865785972F03383A6B3C00C68FB578607377F9893293E519.png",
+      "size": 17297873,
+      "sha256": "c257ef87e399601f67dc7f7c78573aa219c02fefb2b62b3594138fe09793eab7",
+      "reference_count": 1,
+      "json_paths": [
+        "/ObjectStates/20/CustomDeck/41/FaceURL"
+      ]
+    },
+    {
+      "category": "Images",
+      "url": "https://steamusercontent-a.akamaihd.net/ugc/10558097778581516741/A1F3A352A7D05A9E22BE382E0F8FF789046127F5/",
+      "relative_path": "Mods/Images/httpssteamusercontentaakamaihdnetugc10558097778581516741A1F3A352A7D05A9E22BE382E0F8FF789046127F5.png",
+      "size": 12434550,
+      "sha256": "a02710dcdfcbd6098ade02a2912253841e8f54e64ed23ceb603a0574a8726c9b",
+      "reference_count": 8,
+      "json_paths": [
+        "/ObjectStates/37/ContainedObjects/0/CustomDeck/34/FaceURL",
+        "/ObjectStates/37/ContainedObjects/1/CustomDeck/34/FaceURL",
+        "/ObjectStates/37/ContainedObjects/2/CustomDeck/34/FaceURL",
+        "/ObjectStates/37/ContainedObjects/3/CustomDeck/34/FaceURL",
+        "/ObjectStates/37/ContainedObjects/4/CustomDeck/34/FaceURL",
+        "/ObjectStates/37/ContainedObjects/5/CustomDeck/34/FaceURL",
+        "/ObjectStates/37/ContainedObjects/6/CustomDeck/34/FaceURL",
+        "/ObjectStates/37/CustomDeck/59/FaceURL"
+      ]
+    },
+    {
+      "category": "Images",
+      "url": "https://steamusercontent-a.akamaihd.net/ugc/10672783584037214644/4783D1D58E4905ED702BB00A1D477B0486A30003/",
+      "relative_path": "Mods/Images/httpssteamusercontentaakamaihdnetugc106727835840372146444783D1D58E4905ED702BB00A1D477B0486A30003.png",
+      "size": 12633929,
+      "sha256": "cc6ebd4aaad04560c3acc78d30fb03918267406dfffc439dedccd287f4f9b475",
+      "reference_count": 2,
+      "json_paths": [
+        "/ObjectStates/36/CustomDeck/58/BackURL",
+        "/ObjectStates/36/CustomDeck/58/FaceURL"
+      ]
+    },
+    {
+      "category": "Images",
+      "url": "https://steamusercontent-a.akamaihd.net/ugc/10920099889764302143/E22447DBDAC6284CDF26111C9870A5A7277C698D/",
+      "relative_path": "Mods/Images/httpssteamusercontentaakamaihdnetugc10920099889764302143E22447DBDAC6284CDF26111C9870A5A7277C698D.png",
+      "size": 126397,
+      "sha256": "c4681ffdd65bb300eb708cb929038638b031aeeed3b42d9a15371f7fac08e463",
+      "reference_count": 1,
+      "json_paths": [
+        "/TableURL"
+      ]
+    },
+    {
+      "category": "Images",
+      "url": "https://steamusercontent-a.akamaihd.net/ugc/11211791993783579493/ABD6B690778CB39DBADC03E1BA8547B44D201159/",
+      "relative_path": "Mods/Images/httpssteamusercontentaakamaihdnetugc11211791993783579493ABD6B690778CB39DBADC03E1BA8547B44D201159.png",
+      "size": 12616302,
+      "sha256": "ae7fc0bcb200b32d74404f43fae763f0b8e2665e5c992097e5a847e618fd208e",
+      "reference_count": 12,
+      "json_paths": [
+        "/ObjectStates/37/ContainedObjects/0/CustomDeck/34/BackURL",
+        "/ObjectStates/37/ContainedObjects/1/CustomDeck/34/BackURL",
+        "/ObjectStates/37/ContainedObjects/2/CustomDeck/34/BackURL",
+        "/ObjectStates/37/ContainedObjects/3/CustomDeck/34/BackURL",
+        "/ObjectStates/37/ContainedObjects/4/CustomDeck/34/BackURL",
+        "/ObjectStates/37/ContainedObjects/5/CustomDeck/34/BackURL",
+        "/ObjectStates/37/ContainedObjects/6/CustomDeck/34/BackURL",
+        "/ObjectStates/37/CustomDeck/59/BackURL",
+        "/ObjectStates/41/ContainedObjects/0/CustomDeck/35/BackURL",
+        "/ObjectStates/41/ContainedObjects/1/CustomDeck/35/BackURL",
+        "/ObjectStates/41/ContainedObjects/2/CustomDeck/35/BackURL",
+        "/ObjectStates/41/CustomDeck/64/BackURL"
+      ]
+    },
+    {
+      "category": "Audio",
+      "url": "https://steamusercontent-a.akamaihd.net/ugc/11504227860575291231/52AC359C4D957DCFF54FB259E559678D53DE47EC/",
+      "relative_path": "Mods/Audio/httpssteamusercontentaakamaihdnetugc1150422786057529123152AC359C4D957DCFF54FB259E559678D53DE47EC.mp3",
+      "size": 3962770,
+      "sha256": "512da6a3a4b638e8595ac62640799aff8f5daa21b930f9609b3a2503f4616940",
+      "reference_count": 2,
+      "json_paths": [
+        "/MusicPlayer/AudioLibrary/0/Item1",
+        "/MusicPlayer/CurrentAudioURL"
+      ]
+    },
+    {
+      "category": "Images",
+      "url": "https://steamusercontent-a.akamaihd.net/ugc/11542540180001643281/71A84CDC0B4E3E7B448D7B6B4B1353FC60BABBCE/",
+      "relative_path": "Mods/Images/httpssteamusercontentaakamaihdnetugc1154254018000164328171A84CDC0B4E3E7B448D7B6B4B1353FC60BABBCE.png",
+      "size": 13784309,
+      "sha256": "ea6c052ef37d0ad11d83b5343b14daa31af853f1a8f28d9ce25c33c013e98753",
+      "reference_count": 1,
+      "json_paths": [
+        "/ObjectStates/27/CustomDeck/49/BackURL"
+      ]
+    },
+    {
+      "category": "Images",
+      "url": "https://steamusercontent-a.akamaihd.net/ugc/11665387281641586883/0646C17048D3E260357C7E3045271162209236B3/",
+      "relative_path": "Mods/Images/httpssteamusercontentaakamaihdnetugc116653872816415868830646C17048D3E260357C7E3045271162209236B3.png",
+      "size": 12114637,
+      "sha256": "df05e5502507fecc65e928e5ea38a1065ec98680b4469dfc89b5347255558f08",
+      "reference_count": 2,
+      "json_paths": [
+        "/ObjectStates/40/ContainedObjects/0/CustomDeck/32/FaceURL",
+        "/ObjectStates/40/CustomDeck/62/FaceURL"
+      ]
+    },
+    {
+      "category": "Images",
+      "url": "https://steamusercontent-a.akamaihd.net/ugc/11706699076265010081/F7174FDDF5113B2B1ABD4345930255FF799BD194/",
+      "relative_path": "Mods/Images/httpssteamusercontentaakamaihdnetugc11706699076265010081F7174FDDF5113B2B1ABD4345930255FF799BD194.png",
+      "size": 9179949,
+      "sha256": "20a570b8b5ab76c4a7360d6eb360ffab626df893a138672b0acb1541e000eaac",
+      "reference_count": 1,
+      "json_paths": [
+        "/ObjectStates/34/CustomDeck/56/FaceURL"
+      ]
+    },
+    {
+      "category": "Images",
+      "url": "https://steamusercontent-a.akamaihd.net/ugc/11988266363195523403/48C00500F38BC75423886C54A9731CFF48A716FE/",
+      "relative_path": "Mods/Images/httpssteamusercontentaakamaihdnetugc1198826636319552340348C00500F38BC75423886C54A9731CFF48A716FE.png",
+      "size": 14093693,
+      "sha256": "e5a83dd0719ddcb21bf249c856e9db3b89526fd2d7ce40547421967bf83820db",
+      "reference_count": 4,
+      "json_paths": [
+        "/ObjectStates/40/ContainedObjects/0/CustomDeck/32/BackURL",
+        "/ObjectStates/40/ContainedObjects/1/CustomDeck/31/BackURL",
+        "/ObjectStates/40/CustomDeck/62/BackURL",
+        "/ObjectStates/40/CustomDeck/63/BackURL"
+      ]
+    },
+    {
+      "category": "Images",
+      "url": "https://steamusercontent-a.akamaihd.net/ugc/12047988638929747728/E0E3D17A92C9997E1B49ECFCBE47B21ADA266CAC/",
+      "relative_path": "Mods/Images/httpssteamusercontentaakamaihdnetugc12047988638929747728E0E3D17A92C9997E1B49ECFCBE47B21ADA266CAC.png",
+      "size": 2280275,
+      "sha256": "a2224e0765560babe11885cea0b277e451d42f1481bc2a56e3f011e1389dab13",
+      "reference_count": 1,
+      "json_paths": [
+        "/ObjectStates/26/CustomDeck/48/FaceURL"
+      ]
+    },
+    {
+      "category": "Images",
+      "url": "https://steamusercontent-a.akamaihd.net/ugc/12387293819723961644/73673CCF800929D029ABAE4D31D5E932A43E953F/",
+      "relative_path": "Mods/Images/httpssteamusercontentaakamaihdnetugc1238729381972396164473673CCF800929D029ABAE4D31D5E932A43E953F.png",
+      "size": 2668245,
+      "sha256": "f282fdd091ddc9d9fa08fad201fdeb11929ed44b2ae4831e6d3d596c00c0b32d",
+      "reference_count": 1,
+      "json_paths": [
+        "/ObjectStates/21/CustomDeck/43/FaceURL"
+      ]
+    },
+    {
+      "category": "Images",
+      "url": "https://steamusercontent-a.akamaihd.net/ugc/12531697114031896595/3EDA9721BD35A85C65A166582C767ACBE145B397/",
+      "relative_path": "Mods/Images/httpssteamusercontentaakamaihdnetugc125316971140318965953EDA9721BD35A85C65A166582C767ACBE145B397.png",
+      "size": 30144008,
+      "sha256": "29a995086054ee9748a196478f2c1602ec004dd1cddfa98ae348546f934931d3",
+      "reference_count": 1,
+      "json_paths": [
+        "/ObjectStates/32/CustomDeck/54/FaceURL"
+      ]
+    },
+    {
+      "category": "Images",
+      "url": "https://steamusercontent-a.akamaihd.net/ugc/12628511867296490162/AE02DA2A5B5CD02AEC810AAC361605900E68144B/",
+      "relative_path": "Mods/Images/httpssteamusercontentaakamaihdnetugc12628511867296490162AE02DA2A5B5CD02AEC810AAC361605900E68144B.png",
+      "size": 2136133,
+      "sha256": "3a34391a1ee0c01773e56a2bf8d32a0c8b131d42fcece56260126c1529d6087b",
+      "reference_count": 1,
+      "json_paths": [
+        "/ObjectStates/23/CustomDeck/45/FaceURL"
+      ]
+    },
+    {
+      "category": "Images",
+      "url": "https://steamusercontent-a.akamaihd.net/ugc/12658504394251189610/4DF53131D29050DD7EEEA28320FCDEF5AF0DE569/",
+      "relative_path": "Mods/Images/httpssteamusercontentaakamaihdnetugc126585043942511896104DF53131D29050DD7EEEA28320FCDEF5AF0DE569.png",
+      "size": 10727072,
+      "sha256": "11ab557190ca5a61d85ea9e3c20e24e6ec4558d4f7e5dc8c659a99fa33cbd17a",
+      "reference_count": 1,
+      "json_paths": [
+        "/ObjectStates/31/CustomDeck/53/FaceURL"
+      ]
+    },
+    {
+      "category": "Images",
+      "url": "https://steamusercontent-a.akamaihd.net/ugc/13219055273736449457/705D569632AABDE371CFF97B150F8F1AD609E90A/",
+      "relative_path": "Mods/Images/httpssteamusercontentaakamaihdnetugc13219055273736449457705D569632AABDE371CFF97B150F8F1AD609E90A.png",
+      "size": 11753977,
+      "sha256": "b82ce0a587dc8fea6864e6defa819a136ea9d6d43053b58389e99f7b755ef553",
+      "reference_count": 10,
+      "json_paths": [
+        "/ObjectStates/35/ContainedObjects/0/CustomDeck/29/FaceURL",
+        "/ObjectStates/35/ContainedObjects/1/CustomDeck/29/FaceURL",
+        "/ObjectStates/35/ContainedObjects/2/CustomDeck/29/FaceURL",
+        "/ObjectStates/35/ContainedObjects/3/CustomDeck/29/FaceURL",
+        "/ObjectStates/35/ContainedObjects/4/CustomDeck/29/FaceURL",
+        "/ObjectStates/35/ContainedObjects/5/CustomDeck/29/FaceURL",
+        "/ObjectStates/35/ContainedObjects/6/CustomDeck/29/FaceURL",
+        "/ObjectStates/35/ContainedObjects/7/CustomDeck/29/FaceURL",
+        "/ObjectStates/35/CustomDeck/57/FaceURL",
+        "/ObjectStates/39/CustomDeck/61/BackURL"
+      ]
+    },
+    {
+      "category": "Images",
+      "url": "https://steamusercontent-a.akamaihd.net/ugc/13766188577593119033/8CC80379345CF7461EDF1D62D64D1F50901C2019/",
+      "relative_path": "Mods/Images/httpssteamusercontentaakamaihdnetugc137661885775931190338CC80379345CF7461EDF1D62D64D1F50901C2019.png",
+      "size": 2900614,
+      "sha256": "6d5d6d3adef20eef8a8e46b8ca2e25c7d1ef790d62da02e38f1b0b8dee21a725",
+      "reference_count": 2,
+      "json_paths": [
+        "/ObjectStates/28/ContainedObjects/4/CustomDeck/17/FaceURL",
+        "/ObjectStates/28/CustomDeck/50/FaceURL"
+      ]
+    },
+    {
+      "category": "Images",
+      "url": "https://steamusercontent-a.akamaihd.net/ugc/13769711352863243002/EC017F88121DF885557B20B88579B5EB8DBCFA87/",
+      "relative_path": "Mods/Images/httpssteamusercontentaakamaihdnetugc13769711352863243002EC017F88121DF885557B20B88579B5EB8DBCFA87.png",
+      "size": 12053894,
+      "sha256": "4285c7916e44c32e2a26ee3439d82acc662009bbaf3a467bf61f2e124a7cc735",
+      "reference_count": 2,
+      "json_paths": [
+        "/ObjectStates/40/ContainedObjects/1/CustomDeck/31/FaceURL",
+        "/ObjectStates/40/CustomDeck/63/FaceURL"
+      ]
+    },
+    {
+      "category": "Images",
+      "url": "https://steamusercontent-a.akamaihd.net/ugc/14388818278980548259/99EE94E461C04F784A4B6FAB09323EF5F75AACF6/",
+      "relative_path": "Mods/Images/httpssteamusercontentaakamaihdnetugc1438881827898054825999EE94E461C04F784A4B6FAB09323EF5F75AACF6.png",
+      "size": 2900272,
+      "sha256": "e82585c7eb6ea2f60360a406f61fb2b09aed601ee5d0829c3c6bccbca2e07bd0",
+      "reference_count": 6,
+      "json_paths": [
+        "/ObjectStates/25/ContainedObjects/0/CustomDeck/14/FaceURL",
+        "/ObjectStates/25/ContainedObjects/1/CustomDeck/14/FaceURL",
+        "/ObjectStates/25/ContainedObjects/2/CustomDeck/14/FaceURL",
+        "/ObjectStates/25/ContainedObjects/3/CustomDeck/14/FaceURL",
+        "/ObjectStates/25/ContainedObjects/4/CustomDeck/14/FaceURL",
+        "/ObjectStates/25/CustomDeck/47/FaceURL"
+      ]
+    },
+    {
+      "category": "Images",
+      "url": "https://steamusercontent-a.akamaihd.net/ugc/14635915302358565456/DE159AEBFEA620F099C3D9D7450195F98ABF5284/",
+      "relative_path": "Mods/Images/httpssteamusercontentaakamaihdnetugc14635915302358565456DE159AEBFEA620F099C3D9D7450195F98ABF5284.png",
+      "size": 1683070,
+      "sha256": "7b2d8c92b17ae9f36cd695183153f9e78573236122605c38b2bf0301b466e6bd",
+      "reference_count": 1,
+      "json_paths": [
+        "/ObjectStates/33/CustomDeck/55/FaceURL"
+      ]
+    },
+    {
+      "category": "Images",
+      "url": "https://steamusercontent-a.akamaihd.net/ugc/15010124838561098530/53C176D8AE5464299492B9E947AC94D330811C3F/",
+      "relative_path": "Mods/Images/httpssteamusercontentaakamaihdnetugc1501012483856109853053C176D8AE5464299492B9E947AC94D330811C3F.png",
+      "size": 705698,
+      "sha256": "2811c9b1ff204f75152c4e612801019cb9724f16981c94ecd1f552da99c24b60",
+      "reference_count": 16,
+      "json_paths": [
+        "/ObjectStates/10/CustomImage/ImageSecondaryURL",
+        "/ObjectStates/10/CustomImage/ImageURL",
+        "/ObjectStates/11/CustomImage/ImageSecondaryURL",
+        "/ObjectStates/11/CustomImage/ImageURL",
+        "/ObjectStates/12/CustomImage/ImageSecondaryURL",
+        "/ObjectStates/12/CustomImage/ImageURL",
+        "/ObjectStates/13/CustomImage/ImageSecondaryURL",
+        "/ObjectStates/13/CustomImage/ImageURL",
+        "/ObjectStates/14/CustomImage/ImageSecondaryURL",
+        "/ObjectStates/14/CustomImage/ImageURL",
+        "/ObjectStates/15/CustomImage/ImageSecondaryURL",
+        "/ObjectStates/15/CustomImage/ImageURL",
+        "/ObjectStates/8/CustomImage/ImageSecondaryURL",
+        "/ObjectStates/8/CustomImage/ImageURL",
+        "/ObjectStates/9/CustomImage/ImageSecondaryURL",
+        "/ObjectStates/9/CustomImage/ImageURL"
+      ]
+    },
+    {
+      "category": "Assetbundles",
+      "url": "https://steamusercontent-a.akamaihd.net/ugc/15144056560960517413/A46E152735A40E692CC55D37633DCAB53F4A31AD/",
+      "relative_path": "Mods/Assetbundles/httpssteamusercontentaakamaihdnetugc15144056560960517413A46E152735A40E692CC55D37633DCAB53F4A31AD.unity3d",
+      "size": 11628604,
+      "sha256": "fbc520748f8a5e4de4745fb22b31838f7606226bbb212f5533086b48c0c69fee",
+      "reference_count": 8,
+      "json_paths": [
+        "/ObjectStates/42/CustomAssetbundle/AssetbundleURL",
+        "/ObjectStates/43/CustomAssetbundle/AssetbundleURL",
+        "/ObjectStates/44/CustomAssetbundle/AssetbundleURL",
+        "/ObjectStates/45/CustomAssetbundle/AssetbundleURL",
+        "/ObjectStates/46/CustomAssetbundle/AssetbundleURL",
+        "/ObjectStates/47/CustomAssetbundle/AssetbundleURL",
+        "/ObjectStates/48/CustomAssetbundle/AssetbundleURL",
+        "/ObjectStates/49/CustomAssetbundle/AssetbundleURL"
+      ]
+    },
+    {
+      "category": "Images",
+      "url": "https://steamusercontent-a.akamaihd.net/ugc/15489571122114092469/3E560C08CAE2D6E1ED59CBCC01DDE64EA2666DB6/",
+      "relative_path": "Mods/Images/httpssteamusercontentaakamaihdnetugc154895711221140924693E560C08CAE2D6E1ED59CBCC01DDE64EA2666DB6.png",
+      "size": 12786156,
+      "sha256": "7f6e2ad4bfd113ebee6686dddc2b04d61e2c90393b5d86d56ef0a913fe6c22cf",
+      "reference_count": 9,
+      "json_paths": [
+        "/ObjectStates/35/ContainedObjects/0/CustomDeck/29/BackURL",
+        "/ObjectStates/35/ContainedObjects/1/CustomDeck/29/BackURL",
+        "/ObjectStates/35/ContainedObjects/2/CustomDeck/29/BackURL",
+        "/ObjectStates/35/ContainedObjects/3/CustomDeck/29/BackURL",
+        "/ObjectStates/35/ContainedObjects/4/CustomDeck/29/BackURL",
+        "/ObjectStates/35/ContainedObjects/5/CustomDeck/29/BackURL",
+        "/ObjectStates/35/ContainedObjects/6/CustomDeck/29/BackURL",
+        "/ObjectStates/35/ContainedObjects/7/CustomDeck/29/BackURL",
+        "/ObjectStates/35/CustomDeck/57/BackURL"
+      ]
+    },
+    {
+      "category": "Images",
+      "url": "https://steamusercontent-a.akamaihd.net/ugc/15784386632853458306/7E5966333312CCE6E8BD195AF77512786F2F4C8A/",
+      "relative_path": "Mods/Images/httpssteamusercontentaakamaihdnetugc157843866328534583067E5966333312CCE6E8BD195AF77512786F2F4C8A.png",
+      "size": 14436205,
+      "sha256": "2baa8a30885e6913dd8b76ef8d52d3be815832461bf3691fc95ca70ccea759c7",
+      "reference_count": 2,
+      "json_paths": [
+        "/ObjectStates/30/ContainedObjects/27/CustomDeck/21/FaceURL",
+        "/ObjectStates/30/CustomDeck/52/FaceURL"
+      ]
+    },
+    {
+      "category": "Images",
+      "url": "https://steamusercontent-a.akamaihd.net/ugc/15824949658962650806/FA63BED63CB38B9C02CC9EE5BE12B9350E51E1BB/",
+      "relative_path": "Mods/Images/httpssteamusercontentaakamaihdnetugc15824949658962650806FA63BED63CB38B9C02CC9EE5BE12B9350E51E1BB.png",
+      "size": 12600456,
+      "sha256": "988c4d4fbdb443cee82fd8c9b8582d14748f49daaaf1588ab193765e2f72069c",
+      "reference_count": 4,
+      "json_paths": [
+        "/ObjectStates/41/ContainedObjects/0/CustomDeck/35/FaceURL",
+        "/ObjectStates/41/ContainedObjects/1/CustomDeck/35/FaceURL",
+        "/ObjectStates/41/ContainedObjects/2/CustomDeck/35/FaceURL",
+        "/ObjectStates/41/CustomDeck/64/FaceURL"
+      ]
+    },
+    {
+      "category": "Images",
+      "url": "https://steamusercontent-a.akamaihd.net/ugc/16140657447620406997/AC8D9815A45057C037FD932D59396DFC2CADA44A/",
+      "relative_path": "Mods/Images/httpssteamusercontentaakamaihdnetugc16140657447620406997AC8D9815A45057C037FD932D59396DFC2CADA44A.png",
+      "size": 10169565,
+      "sha256": "de10b1013848539bc80737d0b643f6cff533995f864d3b548eca50218a569c9b",
+      "reference_count": 1,
+      "json_paths": [
+        "/ObjectStates/29/CustomDeck/51/BackURL"
+      ]
+    },
+    {
+      "category": "Images",
+      "url": "https://steamusercontent-a.akamaihd.net/ugc/16145314737068371526/2C5AD70B59371E49F2E0C55796A3847EAB3C1F65/",
+      "relative_path": "Mods/Images/httpssteamusercontentaakamaihdnetugc161453147370683715262C5AD70B59371E49F2E0C55796A3847EAB3C1F65.png",
+      "size": 2575348,
+      "sha256": "42d0cf86a3034c90027b281bbe932a2acb29b1505e57725b7c67ee0c50644d37",
+      "reference_count": 4,
+      "json_paths": [
+        "/ObjectStates/18/ContainedObjects/2/CustomDeck/3/FaceURL",
+        "/ObjectStates/18/ContainedObjects/3/CustomDeck/3/FaceURL",
+        "/ObjectStates/18/ContainedObjects/4/CustomDeck/3/FaceURL",
+        "/ObjectStates/18/CustomDeck/39/FaceURL"
+      ]
+    },
+    {
+      "category": "Images",
+      "url": "https://steamusercontent-a.akamaihd.net/ugc/16485331320152591391/3B461DF0C24CC194FFDDA73D1FA0E00044843AC7/",
+      "relative_path": "Mods/Images/httpssteamusercontentaakamaihdnetugc164853313201525913913B461DF0C24CC194FFDDA73D1FA0E00044843AC7.png",
+      "size": 25180412,
+      "sha256": "e135ca2fd03ebdda3c11193c8ab367ed5c7b15d28d5056853050224bc14bc2eb",
+      "reference_count": 3,
+      "json_paths": [
+        "/ObjectStates/19/ContainedObjects/50/CustomDeck/4/FaceURL",
+        "/ObjectStates/19/ContainedObjects/51/CustomDeck/4/FaceURL",
+        "/ObjectStates/19/CustomDeck/40/FaceURL"
+      ]
+    },
+    {
+      "category": "Images",
+      "url": "https://steamusercontent-a.akamaihd.net/ugc/17057256716497466887/BB535988F334AEC148E02470DE68851B1B8FED19/",
+      "relative_path": "Mods/Images/httpssteamusercontentaakamaihdnetugc17057256716497466887BB535988F334AEC148E02470DE68851B1B8FED19.png",
+      "size": 4300191,
+      "sha256": "d1a275f0aae162dbe55583e9515af46f2c92c38a47d69daaac4ce1567d0de609",
+      "reference_count": 1,
+      "json_paths": [
+        "/ObjectStates/22/CustomDeck/44/FaceURL"
+      ]
+    },
+    {
+      "category": "Images",
+      "url": "https://steamusercontent-a.akamaihd.net/ugc/17306982205281073532/32D8DE0F692E52668D1C49EF65165A09EB2896F0/",
+      "relative_path": "Mods/Images/httpssteamusercontentaakamaihdnetugc1730698220528107353232D8DE0F692E52668D1C49EF65165A09EB2896F0.png",
+      "size": 9382605,
+      "sha256": "eb3b1f3d85a62db0db8647315d9df845f34ad90c4e8f195a9dfcbe911b52ec8c",
+      "reference_count": 1,
+      "json_paths": [
+        "/ObjectStates/34/CustomDeck/56/BackURL"
+      ]
+    },
+    {
+      "category": "Images",
+      "url": "https://steamusercontent-a.akamaihd.net/ugc/17398446994861760464/1AE944C698C5A3CB5FA4C5DC500768BCF114A223/",
+      "relative_path": "Mods/Images/httpssteamusercontentaakamaihdnetugc173984469948617604641AE944C698C5A3CB5FA4C5DC500768BCF114A223.png",
+      "size": 14573281,
+      "sha256": "6558172b72f5c03db69a13174f3901ec375bc32ed8657f2488c5d4cde4a29f43",
+      "reference_count": 12,
+      "json_paths": [
+        "/ObjectStates/16/CustomDeck/37/BackURL",
+        "/ObjectStates/17/CustomDeck/38/BackURL",
+        "/ObjectStates/18/ContainedObjects/2/CustomDeck/3/BackURL",
+        "/ObjectStates/18/ContainedObjects/3/CustomDeck/3/BackURL",
+        "/ObjectStates/18/ContainedObjects/4/CustomDeck/3/BackURL",
+        "/ObjectStates/18/CustomDeck/39/BackURL",
+        "/ObjectStates/19/ContainedObjects/50/CustomDeck/4/BackURL",
+        "/ObjectStates/19/ContainedObjects/51/CustomDeck/4/BackURL",
+        "/ObjectStates/19/CustomDeck/40/BackURL",
+        "/ObjectStates/20/CustomDeck/41/BackURL",
+        "/ObjectStates/20/CustomDeck/42/BackURL",
+        "/ObjectStates/21/CustomDeck/43/BackURL"
+      ]
+    },
+    {
+      "category": "Images",
+      "url": "https://steamusercontent-a.akamaihd.net/ugc/17466201074812113931/A01E073D67F6701A41125CB9A8CE682D9AF6A5A7/",
+      "relative_path": "Mods/Images/httpssteamusercontentaakamaihdnetugc17466201074812113931A01E073D67F6701A41125CB9A8CE682D9AF6A5A7.png",
+      "size": 2784289,
+      "sha256": "935839bd018a9be1ce2d1f4e177e241f760a2542f9e080d7ef9b416b2780db59",
+      "reference_count": 1,
+      "json_paths": [
+        "/ObjectStates/29/CustomDeck/51/FaceURL"
+      ]
+    },
+    {
+      "category": "Images",
+      "url": "https://steamusercontent-a.akamaihd.net/ugc/17551634036195451626/19D6F85BFB9EADA15DC57548B2F3D281BFE5E3CD/",
+      "relative_path": "Mods/Images/httpssteamusercontentaakamaihdnetugc1755163403619545162619D6F85BFB9EADA15DC57548B2F3D281BFE5E3CD.png",
+      "size": 16705969,
+      "sha256": "d7268c267d25d025e5fefd25b092f78c8116e6b13c8db028f0cf3521a58173da",
+      "reference_count": 1,
+      "json_paths": [
+        "/ObjectStates/24/CustomDeck/46/FaceURL"
+      ]
+    },
+    {
+      "category": "Images",
+      "url": "https://steamusercontent-a.akamaihd.net/ugc/18006466226080733687/DE94F6B39D0B77C2F5BC061E0B5F041CA6EC9D08/",
+      "relative_path": "Mods/Images/httpssteamusercontentaakamaihdnetugc18006466226080733687DE94F6B39D0B77C2F5BC061E0B5F041CA6EC9D08.png",
+      "size": 2653125,
+      "sha256": "f17789487f45cb574be3e96d1fa7c734f71baecc3e9f82d39aa44d797928e89e",
+      "reference_count": 1,
+      "json_paths": [
+        "/ObjectStates/27/CustomDeck/49/FaceURL"
+      ]
+    },
+    {
+      "category": "Images",
+      "url": "https://steamusercontent-a.akamaihd.net/ugc/9237226482025806520/3807DE1F1150B6F26F98AC0B9F294725F03966B7/",
+      "relative_path": "Mods/Images/httpssteamusercontentaakamaihdnetugc92372264820258065203807DE1F1150B6F26F98AC0B9F294725F03966B7.png",
+      "size": 12768522,
+      "sha256": "0077da11fcffe18196fd98eacd8d5e6b9a5abdae7be00bd4c49fe99fc22df050",
+      "reference_count": 1,
+      "json_paths": [
+        "/ObjectStates/39/CustomDeck/61/FaceURL"
+      ]
+    },
+    {
+      "category": "Images",
+      "url": "https://steamusercontent-a.akamaihd.net/ugc/9444806477376589632/BBD5ED63B13B4F865730E1D5436D3DF880C68300/",
+      "relative_path": "Mods/Images/httpssteamusercontentaakamaihdnetugc9444806477376589632BBD5ED63B13B4F865730E1D5436D3DF880C68300.png",
+      "size": 12024011,
+      "sha256": "29d6a938604028d001d0775e5a17fb34abed0aaeea30d5164290c3f4c4dce24c",
+      "reference_count": 8,
+      "json_paths": [
+        "/ObjectStates/38/ContainedObjects/0/CustomDeck/33/BackURL",
+        "/ObjectStates/38/ContainedObjects/0/CustomDeck/33/FaceURL",
+        "/ObjectStates/38/ContainedObjects/1/CustomDeck/33/BackURL",
+        "/ObjectStates/38/ContainedObjects/1/CustomDeck/33/FaceURL",
+        "/ObjectStates/38/ContainedObjects/2/CustomDeck/33/BackURL",
+        "/ObjectStates/38/ContainedObjects/2/CustomDeck/33/FaceURL",
+        "/ObjectStates/38/CustomDeck/60/BackURL",
+        "/ObjectStates/38/CustomDeck/60/FaceURL"
+      ]
+    },
+    {
+      "category": "Images",
+      "url": "https://steamusercontent-a.akamaihd.net/ugc/9531341440450498832/5035954A84813B9FFA020E03C44AE3231837E981/",
+      "relative_path": "Mods/Images/httpssteamusercontentaakamaihdnetugc95313414404504988325035954A84813B9FFA020E03C44AE3231837E981.png",
+      "size": 11880506,
+      "sha256": "ef4f2f50ef0f75623e05456534878ea85c5063d92f66bc50f94a7f72a8b8eb42",
+      "reference_count": 1,
+      "json_paths": [
+        "/ObjectStates/33/CustomDeck/55/BackURL"
+      ]
+    },
+    {
+      "category": "Images",
+      "url": "https://steamusercontent-a.akamaihd.net/ugc/9532856901601149731/0CCEC1531684C4625DA4B17D73DA69F263A64A29/",
+      "relative_path": "Mods/Images/httpssteamusercontentaakamaihdnetugc95328569016011497310CCEC1531684C4625DA4B17D73DA69F263A64A29.png",
+      "size": 25102356,
+      "sha256": "a120762a6e4779cc925fc5b8d469d4b3813cbda831973854ae28011ed5b24b6d",
+      "reference_count": 1,
+      "json_paths": [
+        "/ObjectStates/17/CustomDeck/38/FaceURL"
+      ]
+    },
+    {
+      "category": "Images",
+      "url": "https://steamusercontent-a.akamaihd.net/ugc/9602187603665029857/AEFD017BCF2D3D773BED3527ACD0F2966CCD671D/",
+      "relative_path": "Mods/Images/httpssteamusercontentaakamaihdnetugc9602187603665029857AEFD017BCF2D3D773BED3527ACD0F2966CCD671D.png",
+      "size": 2114270,
+      "sha256": "8be9c797f60fccc303274d48ebb2c20ba8a2945c8de92f36b0601d0ea5db216c",
+      "reference_count": 15,
+      "json_paths": [
+        "/ObjectStates/22/CustomDeck/44/BackURL",
+        "/ObjectStates/24/CustomDeck/46/BackURL",
+        "/ObjectStates/25/ContainedObjects/0/CustomDeck/14/BackURL",
+        "/ObjectStates/25/ContainedObjects/1/CustomDeck/14/BackURL",
+        "/ObjectStates/25/ContainedObjects/2/CustomDeck/14/BackURL",
+        "/ObjectStates/25/ContainedObjects/3/CustomDeck/14/BackURL",
+        "/ObjectStates/25/ContainedObjects/4/CustomDeck/14/BackURL",
+        "/ObjectStates/25/CustomDeck/47/BackURL",
+        "/ObjectStates/26/CustomDeck/48/BackURL",
+        "/ObjectStates/28/ContainedObjects/4/CustomDeck/17/BackURL",
+        "/ObjectStates/28/CustomDeck/50/BackURL",
+        "/ObjectStates/30/ContainedObjects/27/CustomDeck/21/BackURL",
+        "/ObjectStates/30/CustomDeck/52/BackURL",
+        "/ObjectStates/31/CustomDeck/53/BackURL",
+        "/ObjectStates/32/CustomDeck/54/BackURL"
+      ]
+    },
+    {
+      "category": "Images",
+      "url": "https://steamusercontent-a.akamaihd.net/ugc/9611736802642005195/DC338BE21BE17704A13EF407E3CAB069B388CD91/",
+      "relative_path": "Mods/Images/httpssteamusercontentaakamaihdnetugc9611736802642005195DC338BE21BE17704A13EF407E3CAB069B388CD91.png",
+      "size": 33631920,
+      "sha256": "ad6f161c0ee5b8a5e70fa8ce139fa6e1a58838858e482afd541b4ddc1dd07b69",
+      "reference_count": 1,
+      "json_paths": [
+        "/ObjectStates/20/CustomDeck/42/FaceURL"
+      ]
+    }
+  ]
+}
