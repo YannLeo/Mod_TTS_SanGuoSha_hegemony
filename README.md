@@ -12,7 +12,7 @@
 
 ## 推荐安装方法（Windows）
 
-1. 在 Steam 中订阅[三国杀国战线下2026](https://steamcommunity.com/sharedfiles/filedetails/?id=3794307123)。
+1. 在 Steam 中订阅[三国杀国战群狼环鼎](https://steamcommunity.com/sharedfiles/filedetails/?id=3794307123)。
 2. 启动一次 Tabletop Simulator，等待该模组出现在 `Games → Workshop`，然后完全退出游戏。
 3. 从本仓库右侧 **Releases** 下载 `Sanguosha-Guozhan-2026-WorkshopCache-v1.0.0.zip`，并完整解压到任意文件夹。
 4. 在解压目录中打开 PowerShell，运行：
